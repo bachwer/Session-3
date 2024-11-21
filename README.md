@@ -2,14 +2,14 @@
 
 [Cơ bản] 2. Chuyển đổi nhiệt độ: https://onlinegdb.com/Nu8EfKgyk
 
-[Cơ bản] 3. Tính chu vi, diện tích hình tròn
+[Cơ bản] 3. Tính chu vi, diện tích hình tròn: https://onlinegdb.com/Z2ZCK0Ya7
 
-[Cơ bản] 4. Tính tổng điểm và điểm trung bình
+[Cơ bản] 4. Tính tổng điểm và điểm trung bình: https://onlinegdb.com/ZZGptg2W-B
 
-[Khá] 5. In danh sách sinh viên
+[Khá] 5. In danh sách sinh viên: https://onlinegdb.com/KaaiJeplL
 
-[Khá] 6. Tính diện tích của tam giác
+[Khá] 6. Tính diện tích của tam giác: https://onlinegdb.com/6kM6sdQhc
 
-[Giỏi] 7. Tính tổng các chữ số
+[Giỏi] 7. Tính tổng các chữ số: https://onlinegdb.com/0iu0DrI5_
 
 [Giỏi] 8. In ra số nghịch đảo
