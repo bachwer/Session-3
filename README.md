@@ -4,7 +4,7 @@
 
 [Cơ bản] 3. Tính chu vi, diện tích hình tròn: https://onlinegdb.com/uOmZSMYeZ
 
-[Cơ bản] 4. Tính tổng điểm và điểm trung bình: https://onlinegdb.com/ZZGptg2W-B
+[Cơ bản] 4. Tính tổng điểm và điểm trung bình: https://onlinegdb.com/Iyi3kLIgQ
 
 [Khá] 5. In danh sách sinh viên: https://onlinegdb.com/KaaiJeplL
 
