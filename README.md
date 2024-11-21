@@ -10,6 +10,6 @@
 
 [Khá] 6. Tính diện tích của tam giác: https://onlinegdb.com/6kM6sdQhc
 
-[Giỏi] 7. Tính tổng các chữ số: https://onlinegdb.com/0iu0DrI5_
+[Giỏi] 7. Tính tổng các chữ số: https://onlinegdb.com/lA5Lc6ub8
 
 [Giỏi] 8. In ra số nghịch đảo
