@@ -2,7 +2,7 @@
 
 [Cơ bản] 2. Chuyển đổi nhiệt độ: https://onlinegdb.com/Nu8EfKgyk
 
-[Cơ bản] 3. Tính chu vi, diện tích hình tròn: https://onlinegdb.com/Z2ZCK0Ya7
+[Cơ bản] 3. Tính chu vi, diện tích hình tròn: https://onlinegdb.com/uOmZSMYeZ
 
 [Cơ bản] 4. Tính tổng điểm và điểm trung bình: https://onlinegdb.com/ZZGptg2W-B
 
